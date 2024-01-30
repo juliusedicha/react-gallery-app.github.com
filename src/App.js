@@ -70,6 +70,7 @@ function App() {
   return (
     <main>
       <section className="search">
+        <h2>REACT GALLERY APP </h2>
         <form className="search-form" onSubmit={handleSubmit}>
           <input
             type="text"
